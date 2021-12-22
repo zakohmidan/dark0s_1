@@ -29,6 +29,7 @@ section h1 {
 }
 }
 section a {
+  margin: 11px 11px;
   color: black;
   font-family: consolas;
   font-weight: 12;
